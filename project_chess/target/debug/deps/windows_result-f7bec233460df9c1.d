@@ -1,0 +1,10 @@
+C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\deps\windows_result-f7bec233460df9c1.d: C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.1.2\src\lib.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.1.2\src\bindings.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.1.2\src\com.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.1.2\src\strings.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.1.2\src\error.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.1.2\src\hresult.rs
+
+C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\deps\libwindows_result-f7bec233460df9c1.rmeta: C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.1.2\src\lib.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.1.2\src\bindings.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.1.2\src\com.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.1.2\src\strings.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.1.2\src\error.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.1.2\src\hresult.rs
+
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.1.2\src\lib.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.1.2\src\bindings.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.1.2\src\com.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.1.2\src\strings.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.1.2\src\error.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-result-0.1.2\src\hresult.rs:

@@ -1,0 +1,1 @@
+Application<impl iced::Program<State = <impl iced::Program<State = ChessState, Message = Message, Theme = Theme> as iced::Program>::State, Message = <impl iced::Program<State = ChessState, Message = Message, Theme = Theme> as iced::Program>::Message, Theme = <impl iced::Program<State = ChessState, Message = Message, Theme = Theme> as iced::Program>::Theme>>

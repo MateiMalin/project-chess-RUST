@@ -1,0 +1,1 @@
+iced::advanced::iced_graphics::iced_core::Element<'_, _, _, _>: From<std::iter::Map<Rev<std::slice::Iter<'_, String>>, {closure@src\gui.rs:219:18: 219:21}>>

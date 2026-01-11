@@ -1,0 +1,13 @@
+C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\deps\qoi-f8c7872321016a42.d: C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\lib.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\decode.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\encode.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\error.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\header.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\pixel.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\types.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\utils.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\consts.rs
+
+C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\deps\libqoi-f8c7872321016a42.rmeta: C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\lib.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\decode.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\encode.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\error.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\header.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\pixel.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\types.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\utils.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\consts.rs
+
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\lib.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\decode.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\encode.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\error.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\header.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\pixel.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\types.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\utils.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\qoi-0.4.1\src\consts.rs:

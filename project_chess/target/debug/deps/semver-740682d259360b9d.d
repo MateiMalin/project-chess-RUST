@@ -1,0 +1,12 @@
+C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\deps\semver-740682d259360b9d.d: C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\lib.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\display.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\error.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\eval.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\identifier.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\impls.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\parse.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\serde.rs
+
+C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\deps\libsemver-740682d259360b9d.rmeta: C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\lib.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\display.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\error.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\eval.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\identifier.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\impls.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\parse.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\serde.rs
+
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\lib.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\display.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\error.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\eval.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\identifier.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\impls.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\parse.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.27\src\serde.rs:

@@ -1,0 +1,11 @@
+C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\deps\iced_winit-5d7ef873ce6495f4.d: C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iced_winit-0.14.0\src\lib.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iced_winit-0.14.0\src\clipboard.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iced_winit-0.14.0\src\conversion.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iced_winit-0.14.0\src\error.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iced_winit-0.14.0\src\proxy.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iced_winit-0.14.0\src\window.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iced_winit-0.14.0\src\window\state.rs
+
+C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\deps\libiced_winit-5d7ef873ce6495f4.rmeta: C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iced_winit-0.14.0\src\lib.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iced_winit-0.14.0\src\clipboard.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iced_winit-0.14.0\src\conversion.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iced_winit-0.14.0\src\error.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iced_winit-0.14.0\src\proxy.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iced_winit-0.14.0\src\window.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iced_winit-0.14.0\src\window\state.rs
+
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iced_winit-0.14.0\src\lib.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iced_winit-0.14.0\src\clipboard.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iced_winit-0.14.0\src\conversion.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iced_winit-0.14.0\src\error.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iced_winit-0.14.0\src\proxy.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iced_winit-0.14.0\src\window.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\iced_winit-0.14.0\src\window\state.rs:

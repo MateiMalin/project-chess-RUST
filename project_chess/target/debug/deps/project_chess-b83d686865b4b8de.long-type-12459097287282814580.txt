@@ -1,0 +1,1 @@
+iced::advanced::iced_graphics::iced_core::Element<'_, _, _, _>: From<fn() -> iced::widget::Space {iced::widget::Space::new}>

@@ -1,0 +1,11 @@
+C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\deps\glutin_wgl_sys-38eee540f42ce8e3.d: C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glutin_wgl_sys-0.6.1\src\lib.rs C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\build\glutin_wgl_sys-bbe34a1d2f988b88\out/wgl_bindings.rs C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\build\glutin_wgl_sys-bbe34a1d2f988b88\out/wgl_extra_bindings.rs
+
+C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\deps\libglutin_wgl_sys-38eee540f42ce8e3.rlib: C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glutin_wgl_sys-0.6.1\src\lib.rs C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\build\glutin_wgl_sys-bbe34a1d2f988b88\out/wgl_bindings.rs C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\build\glutin_wgl_sys-bbe34a1d2f988b88\out/wgl_extra_bindings.rs
+
+C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\deps\libglutin_wgl_sys-38eee540f42ce8e3.rmeta: C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glutin_wgl_sys-0.6.1\src\lib.rs C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\build\glutin_wgl_sys-bbe34a1d2f988b88\out/wgl_bindings.rs C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\build\glutin_wgl_sys-bbe34a1d2f988b88\out/wgl_extra_bindings.rs
+
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\glutin_wgl_sys-0.6.1\src\lib.rs:
+C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\build\glutin_wgl_sys-bbe34a1d2f988b88\out/wgl_bindings.rs:
+C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\build\glutin_wgl_sys-bbe34a1d2f988b88\out/wgl_extra_bindings.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\Malin\\Documents\\RUST\\RUST\\project_chess\\target\\debug\\build\\glutin_wgl_sys-bbe34a1d2f988b88\\out

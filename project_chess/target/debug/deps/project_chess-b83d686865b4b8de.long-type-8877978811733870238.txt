@@ -1,0 +1,1 @@
+iced::advanced::iced_graphics::iced_core::Element<'_, _, _, _>: From<fn(_) -> iced::advanced::widget::Text<'_, _, _> {iced::widget::text::<'_, _, _, _>}>

@@ -1,0 +1,7 @@
+C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\deps\clap-afbaf4cf8eea1be8.d: C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\clap-4.5.53\src\lib.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\clap-4.5.53\src\../examples/demo.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\clap-4.5.53\src\../examples/demo.md
+
+C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\deps\libclap-afbaf4cf8eea1be8.rmeta: C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\clap-4.5.53\src\lib.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\clap-4.5.53\src\../examples/demo.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\clap-4.5.53\src\../examples/demo.md
+
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\clap-4.5.53\src\lib.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\clap-4.5.53\src\../examples/demo.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\clap-4.5.53\src\../examples/demo.md:

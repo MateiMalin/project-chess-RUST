@@ -1,0 +1,10 @@
+C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\deps\accesskit_consumer-8a24e73d6b8ac2c1.d: C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.31.0\src\lib.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.31.0\src\tree.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.31.0\src\node.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.31.0\src\filters.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.31.0\src\iterators.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.31.0\src\text.rs
+
+C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\deps\libaccesskit_consumer-8a24e73d6b8ac2c1.rmeta: C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.31.0\src\lib.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.31.0\src\tree.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.31.0\src\node.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.31.0\src\filters.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.31.0\src\iterators.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.31.0\src\text.rs
+
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.31.0\src\lib.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.31.0\src\tree.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.31.0\src\node.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.31.0\src\filters.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.31.0\src\iterators.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.31.0\src\text.rs:

@@ -1,0 +1,2 @@
+for<'a> fn(&'a [Piece]) -> iced::advanced::iced_graphics::iced_core::Element<'a, Message, Theme, iced_renderer::fallback::Renderer<iced_wgpu::Renderer, iced_tiny_skia::Renderer>> {captured_pieces_row}
+iced::advanced::iced_graphics::iced_core::Element<'_, _, _, _>: From<for<'a> fn(&'a [Piece]) -> iced::advanced::iced_graphics::iced_core::Element<'a, Message, Theme, iced_renderer::fallback::Renderer<iced_wgpu::Renderer, iced_tiny_skia::Renderer>> {captured_pieces_row}>

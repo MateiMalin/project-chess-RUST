@@ -1,0 +1,14 @@
+[package]
+name = "project_chess"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+iced = { version = "0.14", features = [
+    "canvas",
+    "tokio",
+    "debug",
+    "image",
+    "advanced",
+] }
+rodio = "0.21.1"

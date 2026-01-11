@@ -1,0 +1,11 @@
+C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\deps\cryoglyph-ed1807e998083a09.d: C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cryoglyph-0.1.0\src\lib.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cryoglyph-0.1.0\src\cache.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cryoglyph-0.1.0\src\error.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cryoglyph-0.1.0\src\text_atlas.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cryoglyph-0.1.0\src\text_render.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cryoglyph-0.1.0\src\viewport.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cryoglyph-0.1.0\src\shader.wgsl
+
+C:\Users\Malin\Documents\RUST\RUST\project_chess\target\debug\deps\libcryoglyph-ed1807e998083a09.rmeta: C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cryoglyph-0.1.0\src\lib.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cryoglyph-0.1.0\src\cache.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cryoglyph-0.1.0\src\error.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cryoglyph-0.1.0\src\text_atlas.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cryoglyph-0.1.0\src\text_render.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cryoglyph-0.1.0\src\viewport.rs C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cryoglyph-0.1.0\src\shader.wgsl
+
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cryoglyph-0.1.0\src\lib.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cryoglyph-0.1.0\src\cache.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cryoglyph-0.1.0\src\error.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cryoglyph-0.1.0\src\text_atlas.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cryoglyph-0.1.0\src\text_render.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cryoglyph-0.1.0\src\viewport.rs:
+C:\Users\Malin\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cryoglyph-0.1.0\src\shader.wgsl:
